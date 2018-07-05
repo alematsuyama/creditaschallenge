@@ -1,0 +1,43 @@
+body{
+  font-family: 'verdana';
+  font-size: 15px;
+}
+
+h1{
+  text-align: center;
+  width: 12em;
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 10px;
+}
+
+li{
+  margin: 10px;
+}
+
+button{
+  border: 1px solid #999;
+  background-color: #f3f3f3;
+  margin-top: 10px;
+}
+
+.messages {
+  width: 20em;
+}
+
+.message-list {
+  min-height: 10em;
+  background-color: #f3f3f3;
+  border: 1px solid #999;
+}
+.message-text {
+  width: 100%;
+  border: 1px solid #999;
+}
+
+.message-input{
+  text-align: center;
+}
